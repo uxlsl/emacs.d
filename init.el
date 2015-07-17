@@ -147,6 +147,7 @@
                      (sanityinc/time-subtract-millis after-init-time before-init-time))))
 
 
+(require 'sdcv)
 (provide 'init)
 
 ;; Local Variables:

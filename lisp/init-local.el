@@ -1,0 +1,5 @@
+(add-to-list 'load-path "/home/lsl/.emacs.d/emacs-for-python/")
+(require 'epy-setup)
+(require 'epy-python)
+(require 'epy-completion)
+(provide 'init-local)
