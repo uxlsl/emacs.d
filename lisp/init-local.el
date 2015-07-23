@@ -1,4 +1,4 @@
-(add-to-list 'load-path "/home/sandy/.emacs.d/emacs-for-python/")
+(add-to-list 'load-path "~/.emacs.d/emacs-for-python/")
 (require 'epy-setup)
 (require 'epy-python)
 (require 'epy-completion)
